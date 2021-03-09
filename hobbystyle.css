@@ -1,0 +1,32 @@
+/. hobbystyle CSS ./
+
+body {
+    background-color: saddlebrown;
+    padding-top: 25px;
+}
+
+h1 {
+    font-family: serif;
+    color: dimgray;
+    text-decoration-style: none;
+    
+}
+
+p {
+    font-family: sans-serif;
+    color: maroon;
+    text-decoration: none
+}
+
+.row {
+    padding: 15px;
+    height: 300px;
+    width: 100%
+    
+        
+}
+
+
+.p-2 {
+    width: 415px
+}
